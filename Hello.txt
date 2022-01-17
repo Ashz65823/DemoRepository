@@ -1,1 +1,2 @@
 This is my secound file in git hub. It's named as Hello.txt
+We are learning to clone using git bash
